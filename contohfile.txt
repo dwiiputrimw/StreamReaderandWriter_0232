@@ -1,0 +1,1 @@
+cd "c:\Users\Hype\OneDrive\Dokumen\PEMDAS 1 JUNI 26\" ; if ($?) { g++ StreamReaderandWriter.cpp -o StreamReaderandWriter } ; if ($?) { .\StreamReaderandWriter }
